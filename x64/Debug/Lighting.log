@@ -1,0 +1,257 @@
+﻿  main.cpp
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\walls.h(14,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\walls.h(14,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\walls.h(266,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\walls.h(266,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\walls.h(323,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\walls.h(323,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\walls.h(323,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\walls.h(373,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\walls.h(373,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere2.h(189,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere2.h(190,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere2.h(192,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere2.h(269,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere2.h(270,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere2.h(274,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere2.h(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere2.h(326,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere2.h(331,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(18,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(15,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(15,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(15,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(46,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(43,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(43,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(43,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(69,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(69,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\surroundings.h(69,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(11,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(11,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(11,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(64,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(64,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(151,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(151,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(151,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(182,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(182,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(182,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(226,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(226,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sofa.h(226,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\lamp.h(22,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\lamp.h(22,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(13,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(13,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(13,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(69,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(69,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(69,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(88,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(88,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(88,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(151,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(151,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(151,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(201,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(201,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\bed.h(201,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\lawn.h(14,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\lawn.h(14,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\lawn.h(14,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\base.h(15,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\base.h(15,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\base.h(15,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\swing.h(17,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\swing.h(17,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\swing.h(17,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\swing.h(43,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\swing.h(43,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\swing.h(70,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\swing.h(70,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\swing.h(70,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\stairs.h(14,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\stairs.h(14,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\stairs.h(14,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\stairs.h(55,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\stairs.h(55,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\stairs.h(55,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(13,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(13,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(13,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(107,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(107,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(153,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(153,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(153,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(176,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(176,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(176,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(189,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(189,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\rack.h(189,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(16,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(16,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(32,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(32,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(32,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(45,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(45,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(45,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(58,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(58,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(58,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(71,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(71,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(71,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(84,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(84,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(84,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(96,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(96,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(96,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(108,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(108,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(108,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(120,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(120,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(120,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(132,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(132,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(132,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(145,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(145,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(145,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(158,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(158,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(158,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(210,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(210,77): warning C4101: 'scaleMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(210,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_door.h(210,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_gate2.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_gate2.h(16,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_gate2.h(16,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(17,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(17,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(17,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(52,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(52,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(64,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(64,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(77,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(77,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(90,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(90,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(104,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\car.h(104,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_gate.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_gate.h(16,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main_gate.h(16,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(15,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(15,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(15,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(268,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(268,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(268,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(284,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(284,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(284,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(300,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(300,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(316,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(316,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(331,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(331,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(347,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(347,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(363,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\floor_2nd.h(363,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\room_g.h(14,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\room_g.h(14,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\room_g.h(58,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\room_g.h(58,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\room_g.h(116,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\room_g.h(116,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\office.h(14,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\office.h(14,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\office.h(14,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\office.h(47,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\office.h(47,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\office.h(47,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(15,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(15,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(15,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(35,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(35,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(35,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(60,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(60,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(60,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(97,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(97,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(97,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(164,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(164,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(164,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(236,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(236,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(236,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(330,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(330,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(330,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(345,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(345,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(361,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(361,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(373,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(373,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(386,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(386,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(398,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(398,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(411,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(411,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(423,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\roundTable.h(423,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(763,23): warning C4305: '-=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(773,22): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(781,27): warning C4305: '=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(783,28): warning C4305: '-=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(806,28): warning C4305: '=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(808,29): warning C4305: '-=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(831,28): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(855,29): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(936,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(958,21): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(990,21): warning C4305: '-=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1220,28): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1221,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1254,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1255,28): warning C4305: '-=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1359,22): warning C4305: '-=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1370,22): warning C4305: '-=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1378,26): warning C4305: '-=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1405,22): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1415,22): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1424,26): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1459,24): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1472,21): warning C4305: '+=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1490,21): warning C4305: '-=': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1854,15): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1854,34): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1854,53): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1854,72): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1917,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1920,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1930,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1936,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\main.cpp(1937,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> G:\graphics Assignments\project2\33Lab4 - Copy (2)\Texture Mapping Student Version\x64\Debug\Lighting.exe
